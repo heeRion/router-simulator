@@ -1,0 +1,19 @@
+{
+  "name": "router-simulator-backend",
+  "version": "1.0.0",
+  "description": "Backend for a network simulator that mimics Cisco Packet Tracer",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"repository\": {"
+  },
+  "keywords": [
+    "https://github.com/heeRion/router-simulator.git"
+  ],
+  "author": "Dohee IM <dohieim@naver.com>",
+  "license": "MIT"
+}
